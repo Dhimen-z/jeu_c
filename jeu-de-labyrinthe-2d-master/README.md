@@ -184,5 +184,5 @@ Projet académique - Faites ce que vous voulez avec ce projet.
 
 **zidane**
 - 📧 dhimenzidane@gmail.com
-- 💼 [linkedin.com/in/achraf-el-allali](https://fr.linkedin.com/in/zidane-dhimen/)
-- 🐱 [github.com/H-raf0](https://github.com/Dhimen-z)
+- 💼 [linkedin.com/in/zidane-dhimen](https://fr.linkedin.com/in/zidane-dhimen/)
+- 🐱 [github.com/Dhimen-z](https://github.com/Dhimen-z)
