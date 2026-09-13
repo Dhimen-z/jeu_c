@@ -182,7 +182,7 @@ Projet académique - Faites ce que vous voulez avec ce projet.
 
 ## 👤 Auteur
 
-**Achraf**
+**zidane**
 - 📧 dhimenzidane@gmail.com
 - 💼 [linkedin.com/in/achraf-el-allali](https://fr.linkedin.com/in/zidane-dhimen/)
 - 🐱 [github.com/H-raf0](https://github.com/Dhimen-z)
